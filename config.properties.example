@@ -1,6 +1,6 @@
 KERNEL_SOURCE=https://github.com/KenshyTp/kernel-mtk.git
 KERNEL_SOURCE_TAGS=MMI-S3RWS32.138-29-5-11
-KERNEL_CONFIG=
+KERNEL_CONFIG=corfu_defconfig
 KERNEL_IMAGE_NAME=image.gz
 ARCH=arm64
 
